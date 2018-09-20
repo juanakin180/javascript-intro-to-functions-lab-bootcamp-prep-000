@@ -32,25 +32,16 @@ function sayHiToGrandma(string) {
  
  return string = "YES INDEED!";
   
-}
+} else if (string === "I love you, Grandma." )
 
 }
 
 function sayHiToGrandma(string) {
   
-  if (string === "I love you granda" ) {
+  if (string === "I love you, Grandma." ) {
   
  return string = "I love you too!";
  
- } else if (string.toUpperCase() === string); {
- 
- return string = "YES INDEED!";
-  
-}
-
-}
-
-
-
+  }
 
 
