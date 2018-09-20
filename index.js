@@ -32,12 +32,12 @@ function sayHiToGrandma(string) {
  
  return string = "YES INDEED!";
   
-} else if (string === "I love you, Grandma."); {
+ } else if (string === "I love you, Grandma."); {
   
   return string = "I love you too!";
 
 }
 
-} 
+}
 
 
