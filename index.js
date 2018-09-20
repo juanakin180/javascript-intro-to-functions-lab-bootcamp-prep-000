@@ -34,7 +34,7 @@ function sayHiToGrandma(string) {
   
  } else if (string === "I love you, Grandma.") {
   
-  return string = "I love you, too!";
+  return string = "I love you, too.";
 
 }
 
